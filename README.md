@@ -1,6 +1,8 @@
 # Generation-of-Network-and-Broadcast-Addresses（由Excel建立的生成的TCP/IP工具包）
 
 ### 如你所见，这是一个由Excel电子表格做成的 `网络地址` 和 `广播地址` 转换的工具
+[![Build Status](https://github.com/atelier-anchor/smiley-sans/workflows/build/badge.svg)]( )
+[![GitHub release](https://img.shields.io/github/release/atelier-anchor/smiley-sans/all.svg)]([https://github.com/28778/Tops_map/releases/tag/23.8.26](https://github.com/28778/Generation-of-Network-and-Broadcast-Addresses/releases/tag/v1.1))
 
 ## 🤷它有什么用：
 ```
