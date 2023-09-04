@@ -2,7 +2,7 @@
 
 ### 如你所见，这是一个由Excel电子表格做成的 `网络地址` 和 `广播地址` 转换的工具
 [![Build Status](https://github.com/atelier-anchor/smiley-sans/workflows/build/badge.svg)]( )
-[![GitHub release](https://img.shields.io/github/release/atelier-anchor/smiley-sans/all.svg)](https://github.com/28778/Generation-of-Network-and-Broadcast-Addresses/releases/tag/v1.1)
+[![GitHub release](https://img.shields.io/badge/Release-v1.1-blue)](https://github.com/28778/Generation-of-Network-and-Broadcast-Addresses/releases/tag/v1.1)
 
 ## 🤷它有什么用：
 ```
