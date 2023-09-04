@@ -1,4 +1,4 @@
-# Generation-of-Network-and-Broadcast-Addresses（由Excel建立的生成的TCP/IP工具包）
+# 由Excel建立的生成的TCP/IP工具包（Generation-of-Network-and-Broadcast-Addresses）
 
 ### 如你所见，这是一个由Excel电子表格做成的 `网络地址` 和 `广播地址` 转换的工具
 `As you can see, this is a tool made from an Excel spreadsheet for converting 'Network Address' and 'Broadcast Address'.`
@@ -28,5 +28,6 @@ Use Sheet1 and fill in the IP address you want to convert in the gray areas.
 3.尽情探索此文件
 Feel free to explore this file.
 ```
+`探索吧，不止介绍的这些，还有彩蛋😁`
 # 快速了解：
 <img width="884" alt="84336281c2a5003e4e4a78e5ad5f700" src="https://github.com/28778/Generation-of-Network-and-Broadcast-Addresses/assets/31039562/b09bf261-06d7-4c6c-ba2e-5157a5ef16d2">
