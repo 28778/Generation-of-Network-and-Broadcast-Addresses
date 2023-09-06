@@ -29,5 +29,5 @@ Use Sheet1 and fill in the IP address you want to convert in the gray areas.
 Feel free to explore this file.
 ```
 `探索吧，不止介绍的这些，还有彩蛋😁`
-# 快速了解：
+# 快速了解/快照：
 <img width="884" alt="84336281c2a5003e4e4a78e5ad5f700" src="https://github.com/28778/Generation-of-Network-and-Broadcast-Addresses/assets/31039562/b09bf261-06d7-4c6c-ba2e-5157a5ef16d2">
